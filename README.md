@@ -39,5 +39,5 @@
 - └── README.md
 
 ## Скриншоты работы:
-![Меню](screenshots\1.png)
-![Добавление товара](screenshots\2.png)
+![Меню](screenshots/1.png)
+![Добавление товара](screenshots/2.png)
